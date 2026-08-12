@@ -24,5 +24,8 @@ org; updates on every release.
 | [classroom-config](https://github.com/DSL-Demo-f2025/classroom-config) | private | PRIVATE cohort config - roster (students.csv). No PII leaves here. |
 | [dsl-demo-f2025.github.io](https://github.com/DSL-Demo-f2025/dsl-demo-f2025.github.io) | public | Cohort course website (auto-deployed on push) |
 
+_Teaching staff (instructors, TAs, faculty assistants): your action buttons aren't here - they live in the
+parent **course org's** `.github` control panel, on its Actions tab._
+
 ---
 _Hertie Data Science Lab. This page is auto-generated._
