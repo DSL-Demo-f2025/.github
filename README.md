@@ -1,6 +1,6 @@
-# DSL-Demo-f2025 - cohort control repo
+# hertie-dsl-demo-f2025 - cohort control repo
 
-This is the **`.github` repo** for the `DSL-Demo-f2025` cohort org. It holds this cohort's configuration
+This is the **`.github` repo** for the `hertie-dsl-demo-f2025` cohort org. It holds this cohort's configuration
 and the auto-generated student-facing org page - **faculty, instructors and faculty assistants (FAs) delivering the course rarely need to touch it directly.**
 
 - The **faculty & instructors action buttons** (Release, Grade, Sync ...) live in the **parent course org's**
@@ -13,4 +13,4 @@ and the auto-generated student-facing org page - **faculty, instructors and facu
 - `profile/README.md` - the student-facing org landing page (auto-generated; don't hand-edit).
 - Students join via the **welcome** repo's "Join course" issue; the roster lives in **classroom-config**.
 
-Built and kept in sync by the [DSL teaching toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-course-setup).
+Built and kept in sync by the [DSL teaching toolkit](https://github.com/hertie-data-science-lab/dsl-teaching-toolkit).
